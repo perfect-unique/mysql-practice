@@ -1,2 +1,2 @@
 # mysql-practice
-数据库
+数据库练习题！
